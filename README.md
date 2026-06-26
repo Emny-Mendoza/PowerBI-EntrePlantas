@@ -83,6 +83,5 @@ Actualmente desarrollo proyectos orientados a convertir datos en información ú
 
 ## 🚀 Estado del proyecto
 
- ✅ Finalizado
 
 ✅ Finalizado
